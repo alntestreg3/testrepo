@@ -5,7 +5,7 @@
 <description>
 <title>Performance and precision</title>
 <price>$ 39.99</price>
-<shipping>Free shipping on orders over $29.00</shipping>
+<shipping>No shipping on orders below $29.00</shipping>
 <color>blue</color>
 <color>black</color>
 <color>red</color>
