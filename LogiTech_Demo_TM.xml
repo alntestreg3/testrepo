@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xml:lang="en-US">
+<product>
+<title>WIRELESS MOUSE M525</title>
+<description>
+<title>Performance and precision</title>
+</description>
+<specifications>
+<title>SPECIFICATIONS</title>
+<requirements>
+<title>SYSTEM REQUIREMENTS</title>
+<system>Windows® XP, Windows Vista®, Windows® 7, Windows 8, Windows 10</system>
+<system>Mac OS® X 10.5 or later</system>
+<internet>Internet access</internet>
+</requirements>
+<technical>
+<title>TECHNICAL SPECIFICATIONS</title>
+<dimensions>Mouse Dimensions (height x width x depth):</dimensions>
+<dimensions>4.00 in (101.5 mm) x 2.24 in (57 mm) x 1.51 in (38.3 mm)</dimensions>
+<weight>Mouse Weight (including battery): 4.49 oz (127.4 g)</weight>
+</technical>
+<receiver>
+<dimensions>Receiver Dimensions (height x width x depth):</dimensions>
+<dimensions>0.57 in (14.4 mm) x 0.74 in (18.7 mm) x 0.24 in (6.1 mm)</dimensions>
+<weight>Receiver Weight: 0.06 oz (1.8 g)</weight>
+<sensor>Sensor technology: Advanced Optical Tracking</sensor>
+<buttons>Number of buttons: 5</buttons>
+<scroll>Scroll Wheel (Y/N): Yes (with Micro-precise scrolling)</scroll>
+<tilt>Tilt scroll function (Y/N): Yes</tilt>
+<battery>Battery life: 36-month battery life</battery>
+<type>Battery type: 2 AA batteries</type>
+<distance>Wireless operating distance: Approx 10m</distance>
+<wireless>Wireless technology: Advanced 2.4 GHz wireless connectivity(Unifying supported)</wireless>
+<interface>Interface: USB receiver</interface>
+</receiver>
+<package>
+<title>PACKAGE CONTENTS</title>
+</package>
+<warranty>
+<title>WARRANTY INFORMATION</title>
+<title>3-year Limited hardware warranty</title>
+</warranty>
+</specifications>
+</product>
+<product>
+</concept>
