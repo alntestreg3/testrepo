@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept xml:lang="en-US" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<product>
+<title>DRAHTLOSE MAUS M525</title>
+<description>
+<title>Leistung und Präzision</title>
+</description>
+<specifications>
+<title>SPEZIFIKATIONEN</title>
+<requirements>
+<title>SYSTEMANFORDERUNGEN</title>
+<system>Windows® XP, Windows Vista®, Windows® 7, Windows 8, Windows 10</system>
+<system>Mac OS® X 10.5 oder höher</system>
+<internet>Internetzugang</internet>
+</requirements>
+<technical>
+<title>TECHNISCHE SPEZIFIKATIONEN</title>
+<dimensions>Mausabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>4,00 Zoll (101,5 mm) × 2,24 Zoll (57 mm) × 1,51 Zoll (38,3 mm)</dimensions>
+<weight>Mausgewicht (einschließlich Batterie): 4,49 Zoll (127,4 g)</weight>
+</technical>
+<receiver>
+<dimensions>Empfängerabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>0,57 Zoll (14,4 mm) × 0,74 Zoll (18,7 mm) × 0,24 Zoll (6,1 mm)</dimensions>
+<weight>Gewicht des Empfängers: 0,06 Zoll (1,8 g)</weight>
+<sensor>Sensortechnologie: Advanced Optical Tracking</sensor>
+<buttons>Anzahl der Tasten: 5</buttons>
+<scroll>Bildlaufrad (J / N): Ja (mit mikrogenauem Bildlauf)</scroll>
+<tilt>Tilt-Scroll-Funktion (Y / N): Ja</tilt>
+<battery>Akkulaufzeit: 36 Monate Akkulaufzeit</battery>
+<type>Batterietyp: 2 AA-Batterien</type>
+<distance>Funkreichweite: ca. 10m</distance>
+<wireless>Wireless-Technologie: Erweiterte 2,4-GHz-Wireless-Konnektivität (Unifying wird unterstützt)</wireless>
+<interface>Schnittstelle: USB-Empfänger</interface>
+</receiver>
+<package>
+<title>PACKUNGSINHALT</title>
+</package>
+<warranty>
+<title>GARANTIEINFORMATIONEN</title>
+<title>3 Jahre eingeschränkte Hardwaregarantie</title>
+</warranty>
+</specifications>
+</product>
+</concept>
