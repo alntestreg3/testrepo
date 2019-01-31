@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept xml:lang="en-US" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/">
+<product>
+<title>DRAHTLOSE MAUS M525</title>
+<description>
+<title>Leistung und Präzision</title>
+<price>39,99 EUR</price>
+<shipping>Kostenloser Versand für Bestellungen über 29,00 USD</shipping>
+<color>blue</color>
+<color>black</color>
+<color>red</color>
+<button>ADD TO CART</button>
+<button>ONLINE RETAILERS</button>
+</description>
+<specifications>
+<title>SPEZIFIKATIONEN</title>
+<requirements>
+<title>SYSTEMANFORDERUNGEN</title>
+<system>Windows® XP, Windows Vista®, Windows® 7, Windows 8, Windows 10</system>
+<system>Mac OS® X 10.5 oder höher</system>
+<system>Linux® kernel 2.6+</system>
+<port>USB port</port>
+<internet>Internetzugang</internet>
+</requirements>
+<technical>
+<title>TECHNISCHE SPEZIFIKATIONEN</title>
+<dimensions>Mausabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>4,00 Zoll (101,5 mm) × 2,24 Zoll (57 mm) × 1,51 Zoll (38,3 mm)</dimensions>
+<weight>Mausgewicht (einschließlich Batterie): 4,49 oz (127,4 g)</weight>
+</technical>
+<receiver>
+<dimensions>Empfängerabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>14,4 mm x 18,7 mm (0,24 Zoll) x 6,1 mm (0,24 Zoll)</dimensions>
+<weight>Gewicht des Empfängers: 0,06 oz (1,8 g)</weight>
+<sensor>Sensortechnologie: Advanced Optical Tracking</sensor>
+<resolution>Sensor Resolution: 1000</resolution>
+<buttons>Anzahl der Tasten: 5</buttons>
+<scroll>Bildlaufrad (J / N): Ja (mit mikrogenauem Bildlauf)</scroll>
+<tilt>Tilt-Scroll-Funktion (Y / N): Ja</tilt>
+<battery>Akkulaufzeit: 36 Monate Akkulaufzeit</battery>
+<type>Batterietyp: 2 AA-Batterien</type>
+<distance>Funkreichweite: ca. 10m</distance>
+<wireless>Wireless-Technologie: Erweiterte 2,4 GHz-Wireless-Konnektivität (Unifying wird unterstützt)</wireless>
+<interface>Schnittstelle: USB-Empfänger</interface>
+</receiver>
+<package>
+<title>PACKUNGSINHALT</title>
+<item>Mouse</item>
+<item>Logitech Unifying receiver</item>
+<item>2 AA batteries</item>
+<item>User documentation</item>
+</package>
+<warranty>
+<title>GARANTIEINFORMATIONEN</title>
+<title>3 Jahre eingeschränkte Hardwaregarantie</title>
+</warranty>
+</specifications>
+</product>
+<product>
+<title>WIRELESS MOUSE M510</title>
+<description>
+<title>Full-size, laser-grade tracking, comfort mouse</title>
+<price>39,99 EUR</price>
+<shipping>Kostenloser Versand für Bestellungen über 29,00 USD</shipping>
+<color>black</color>
+<color>blue</color>
+<color>red</color>
+<button>ADD TO CART</button>
+<button>ONLINE RETAILERS</button>
+</description>
+<specifications>
+<title>SPEZIFIKATIONEN</title>
+<requirements>
+<title>SYSTEMANFORDERUNGEN</title>
+<system>Windows® 10, Windows 8, Windows 7</system>
+<system>Chrome OS</system>
+<system>Linux® kernel 2.6+</system>
+<port>USB port</port>
+<internet>Internetzugang</internet>
+</requirements>
+<technical>
+<title>TECHNISCHE SPEZIFIKATIONEN</title>
+<dimensions>Mausabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>4.72 in (120 mm) x 2.56 in (65 mm) x 1.61 in (41 mm)</dimensions>
+<weight>Mouse Weight (including battery): 4.55 oz (129 g)</weight>
+</technical>
+<receiver>
+<dimensions>Empfängerabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>0,57 Zoll (14,4 mm) x 0,74 Zoll(18,7 mm) x 0,24 Zoll (6,1 mm)</dimensions>
+<weight>Gewicht des Empfängers: 0,06 oz (1,8 g)</weight>
+<sensor>Sensor technology: Laser-grade tracking</sensor>
+<resolution>Sensor Resolution: 1000</resolution>
+<buttons>Number of buttons: 7</buttons>
+<scroll>Scroll Wheel (Y/N): Yes</scroll>
+<tilt>Tilt-Scroll-Funktion (Y / N): Ja</tilt>
+<battery>Battery life: 24-month battery life</battery>
+<type>Batterietyp: 2 AA-Batterien</type>
+<distance>Funkreichweite: ca. 10m</distance>
+<wireless>Wireless technology: Advanced 2.4 GHz wireless connectivity (Unifying supported)</wireless>
+<interface>Schnittstelle: USB-Empfänger</interface>
+</receiver>
+<package>
+<title>PACKUNGSINHALT</title>
+<item>Wireless Mouse</item>
+<item>Logitech Unifying receiver</item>
+<item>2 AA batteries (pre-installed)</item>
+<item>User documentation</item>
+</package>
+<warranty>
+<title>GARANTIEINFORMATIONEN</title>
+<title>3 Jahre eingeschränkte Hardwaregarantie</title>
+</warranty>
+</specifications>
+</product>
+<product>
+<title>WIRELESS MOUSE M6000</title>
+<description>
+<title>Full-size, full laser-grade tracking, comfort mouse</title>
+<price>39,99 EUR</price>
+<shipping>Kostenloser Versand für Bestellungen über 29,00 USD</shipping>
+<color>black</color>
+<color>blue</color>
+<color>red</color>
+<button>ADD TO CART</button>
+<button>ONLINE RETAILERS</button>
+</description>
+<specifications>
+<title>SPEZIFIKATIONEN</title>
+<requirements>
+<title>SYSTEMANFORDERUNGEN</title>
+<system>Windows® 10, Windows 8, Windows 7, Windows XP</system>
+<system>Chrome OS</system>
+<system>Linux® kernel 2.6+</system>
+<port>USB port</port>
+<internet>Internetzugang</internet>
+</requirements>
+<technical>
+<title>TECHNISCHE SPEZIFIKATIONEN</title>
+<dimensions>Mausabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>4.22 in (100 mm) x 2.56 in (65 mm) x 1.61 in (41 mm)</dimensions>
+<weight>Mouse Weight (excluding battery): 4.55 oz (129 g)</weight>
+</technical>
+<receiver>
+<dimensions>Empfängerabmessungen (Höhe x Breite x Tiefe):</dimensions>
+<dimensions>0,57 Zoll (14,4 mm) x 0,74 Zoll(18,7 mm) x 0,24 Zoll (6,1 mm)</dimensions>
+<weight>Gewicht des Empfängers: 0,06 oz (1,8 g)</weight>
+<sensor>Sensor technology: Laser-grade tracking</sensor>
+<resolution>Sensor Resolution: 1000</resolution>
+<buttons>Number of buttons: 7</buttons>
+<scroll>Scroll Wheel (Y/N): Yes</scroll>
+<tilt>Tilt-Scroll-Funktion (Y / N): Ja</tilt>
+<battery>Battery life: 24-month battery life</battery>
+<type>Batterietyp: 2 AA-Batterien</type>
+<distance>Funkreichweite: ca. 10m</distance>
+<wireless>Wireless technology: Advanced 2.4 GHz wireless connectivity (Unifying supported)</wireless>
+<interface>Schnittstelle: USB-Empfänger</interface>
+</receiver>
+<package>
+<title>PACKUNGSINHALT</title>
+<item>Wireless Mouse</item>
+<item>Logitech Unifying receiver</item>
+<item>2 AA batteries (pre-installed)</item>
+<item>User documentation</item>
+</package>
+<warranty>
+<title>GARANTIEINFORMATIONEN</title>
+<title>3 Jahre eingeschränkte Hardwaregarantie</title>
+</warranty>
+</specifications>
+</product>
+</concept>
