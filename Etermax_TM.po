@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: TextUnited.com\n"
+"Project-Id-Version: Etermax_TM\n"
+"Language: en\n"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "OPEN YOUR WORLD TO NEW CHALLENGES"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.description sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Collect characters"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Get them and complete your collections."
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Create your Team"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Play and exchange lives with your friends."
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Reach new levels"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Discover hundreds of exciting levels."
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "THRILLING GAME MODES"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Tower Duel"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Plan your strategy and defeat your opponent in every category"
+msgstr ""
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Daily Challenge"
+msgstr ""
+
+#: centra=342 collection=161 object=Product.3178.description sku=111239 slug=grim-tim-black-ring
+msgid "Achieve winning streaks and push yourself to the limit"
+msgstr ""
+
+#: centra=1107 collection=None object=Product.8587.excerpt sku=111254 slug=tight-long-john-org-black-and
+msgid "Classic Mode"
+msgstr ""
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "Play 1 on 1, get the six characters and clinch the win"
+msgstr ""
