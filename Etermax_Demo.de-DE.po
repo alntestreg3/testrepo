@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: TextUnited.com\n"
+"Project-Id-Version: Etermax_TM\n"
+"Language: en\n"
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "Trivia Crack 2"
+msgstr "Trivia Crack 2"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "OPEN YOUR WORLD TO BRAND-NEW CHALLENGES"
+msgstr "ÖFFNEN SIE IHRE WELT FÜR BRANDNEUE CHALLENGES"
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "Trivia Crack 2"
+msgstr "Trivia 2"
+
+#: centra=288 collection=194 object=Product.3195.description sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Collect characters"
+msgstr "Sammle Charaktere"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Get them and complete your new collections."
+msgstr "Get them and complete your new collections."
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Create your Team"
+msgstr "Erstelle dein Team"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Play and exchange lives with your friends."
+msgstr "Spiele und tausche dein Leben mit deinen Freunden aus."
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Reach new levels"
+msgstr "Erreiche neue Level"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Discover hundreds of exciting levels."
+msgstr "Entdecke hunderte aufregender Levels."
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "THRILLING GAME MODES"
+msgstr "SPIELMODI"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Tower Duel"
+msgstr "Turmduell"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Plan your strategy and defeat your opponent in every category"
+msgstr "Planen Sie Ihre Strategie und besiegen Sie Ihren Gegner in jeder Kategorie"
+
+#: centra=288 collection=194 object=Product.3195.excerpt sku=110268 slug=thin-finn-dry-ecru-embo
+msgid "Daily Challenge"
+msgstr "Tägliche Herausforderung"
+
+#: centra=342 collection=161 object=Product.3178.description sku=111239 slug=grim-tim-black-ring
+msgid "Achieve winning streaks and push yourself to the limit"
+msgstr "Erreiche Siegesserie und drücke dich bis zum Limit"
+
+#: centra=1107 collection=None object=Product.8587.excerpt sku=111254 slug=tight-long-john-org-black-and
+msgid "Classic Mode"
+msgstr "Klassischer Modus"
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "Play 1 on 1, get the six characters and clinch the win"
+msgstr "Spielen Sie 1 gegen 1, holen Sie sich die sechs Charaktere und gewinnen Sie den Sieg"
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "JOIN A TEAM OR CREATE YOUR OWN"
+msgstr "JOIN A TEAM OR CREATE YOUR OWN"
+
+#: centra=343 collection=153 object=Product.3776.excerpt sku=111275 slug=slim-jim-dry-black
+msgid "Play and chat with your friends, exchange lives and receive free gold chests."
+msgstr "Play and chat with your friends, exchange lives and receive free gold chests."
+
