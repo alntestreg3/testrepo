@@ -1,0 +1,101 @@
+<articles>
+<article id="1">
+<p>Search Products</p>
+<p>SEARCH BY PART NUMBER</p>
+<p>PC CATEGORY</p>
+<p>PRINTER CATEGORY</p>
+<p>List of SKUs</p>
+<p>Include Localization</p>
+<p>Product {0} has failed eligibility check</p>
+<p>Search</p>
+<p>The number of products on each file cannot exceed 100 products.</p>
+<p>Drop your files here or browse</p>
+<p>Supported file types are .xls,.xlsx</p>
+<p>selected</p>
+<p>Search Results</p>
+<p>Products</p>
+<p>Available</p>
+<p>Search Tip: You may search for one or multiple part numbers (use the comma, space, or newline as separators)</p>
+<p>HP Top Recommended Products</p>
+<p>Product Information Not Available</p>
+<p>Network Error Please try again</p>
+<p>HP Integrated Quoting</p>
+<p>No Image Available</p>
+<p>Please remove the duplicate part number for {0} and re-upload the file</p>
+<p>ADD TO QUOTE</p>
+<p>Auto Attach</p>
+<p>Guided Selling</p>
+<p>Mixed</p>
+<p>No Family Found</p>
+<p>No Family Found</p>
+<p>No Family Found</p>
+</article>
+	
+<article id="2">
+<p>Product {0} can only be added as part of configuration file.</p>
+<p>Products {0} can only be added as part of configuration file.</p>
+<p>Only XLS and XLSX files are supported</p>
+<p>Excel sheet should contain only one worksheet</p>
+<p>File does not contain products</p>
+<p>No products available</p>
+<p>Carepack quantity should not be greater than base product quantity.</p>
+<p>Copied to clipboard</p>
+<p>The Product {0} is available at line {1}, hence updating the quantity instead.</p>
+<p>Selected {0}</p>
+<p>Removed {0}.</p>
+</article>
+
+<article id="3">
+<p>No matches found</p>
+<p>Loading…</p>
+<p>Select part numbers</p>
+</article>
+
+<article id="4">
+<p>Remove Product</p>
+<p>Are you sure you want to remove this item?</p>
+<p>Delete {0} product(s)</p>
+<p>This action cannot be undone.</p>
+</article>
+
+<article id="5">
+<p>Network error. Please refresh the page</p>
+<p>Uploaded File</p>
+<p>Rows per page</p>
+<p>Next page</p>
+<p>Previous page</p>
+<p>Save</p>
+<p>Remove</p>
+<p>Cancel</p>
+<p>Delete</p>
+<p>Show more</p>
+<p>Show less</p>
+<p>Please contact your system administrator.</p>
+<p>Delete</p>
+<p>Quantity more than {0}. Please increase the quantity of {1} for this deal in Eclipse</p>
+<p>HP recommended</p>
+<p>Summary of Selected Items</p>
+<p>Recommended for {0}</p>
+<p>No records found</p>
+<p>Type Part Number or Description</p>
+<p>Category</p>
+<p>Displays</p>
+<p>Accessories</p>
+<p>Care Packs</p>
+<p>Private products not allowed</p>
+<p>Product not found</p>
+<p>List price not found</p>
+<p>Invalid price date</p>
+<p>Price not active</p>
+<p>3PAR failure</p>
+<p>PLC failure</p>
+<p>SAStatus failure</p>
+<p>NEStatus failure</p>
+<p>Pricing failure</p>
+<p>Plc failure</p>
+<p>Product obsolete</p>
+<p>Invalid parent</p>
+<p>Product description not found</p>
+<p>Product number empty</p>
+</article>
+</articles>
